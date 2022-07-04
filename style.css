@@ -1,0 +1,15 @@
+.purple{
+    color: purple; 
+    font-size: 2.5vw;
+}
+
+@media(max-width:600px){
+    body{
+    background-color: black !important;
+    color: red !important;
+    font-size: 3.5vw;
+}
+html,body{
+    overflow-x: hidden;
+    width: 100%;
+}
